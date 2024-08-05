@@ -4,7 +4,7 @@
 ## One exercise project: the Simulator
 
 
-——————————————————————————————————————
+————————————————————————————————————————————————————————
 
 
 ### 》》Pacman
@@ -12,11 +12,11 @@
 ### 》》Interactive interface retro-futuristic rendering
 
 
-——————————————————————————————————————
+————————————————————————————————————————————————————————
 # Usage
 #### windows:
 #### Linux:
 #### Mac:
 #### docker:
 
-#Network
+# Network
